@@ -1,0 +1,25 @@
+/* Gerado automaticamente por scripts/build-tokens.js */
+/* Não edite manualmente — edite tokens.json */
+
+@theme {
+  --color-bg: #18181b;  /* Fundo principal */
+  --color-bg-elevated: #27272a;  /* Cards e superfícies elevadas */
+  --color-bg-subtle: #3f3f46;  /* Hover e áreas sutis */
+  --color-text: #ffffff;  /* Texto principal e títulos */
+  --color-text-muted: #a1a1aa;  /* Corpo de texto e nav em repouso */
+  --color-text-secondary: #52525b;  /* Metadados e rótulos secundários */
+  --color-accent: #f43f5e;  /* Rose-500 — acento único da marca */
+  --color-border: #3f3f46;  /* Bordas sutis */
+
+  --font-size-display: 42px;
+  --font-size-body: 16px;
+  --font-size-nav: 16px;
+  --font-size-label: 14px;
+
+  --line-height-display: 48px;
+  --line-height-body: 26px;
+  --line-height-nav: 24px;
+  --line-height-label: 22px;
+
+  --font-base: "Plus Jakarta Sans", sans-serif;
+}
